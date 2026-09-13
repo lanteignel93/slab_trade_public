@@ -1,4 +1,4 @@
-# Earnings Straddle Book
+# Slab — Earnings Straddle Book
 
 > [!NOTE]
 > **This is the public showcase repository.** To request access to the private, full-source repository, please email [laurent.lanteigne@gmail.com](mailto:laurent.lanteigne@gmail.com).
